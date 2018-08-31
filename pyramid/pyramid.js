@@ -13,13 +13,18 @@
 //       '  #  '
 //       ' ### '
 //       '#####'
+//   pyramid(4)
+//       '   #   '
+//       '  ###  '
+//       ' ##### '
+//       '#######'
 
 function pyramid(n) {
     for (let row = 0; row < n; row++) {
         let str = '';
-        str += '*'.repeat(n - row - 1);
+        str += ' '.repeat(n - row - 1);
         str += '#'.repeat(2 * row + 1);
-        str += '*'.repeat(n - row - 1);
+        str += ' '.repeat(n - row - 1);
         console.log(str);
     }
 }
@@ -29,7 +34,7 @@ function pyramid2(n) {
         let str = '';
         for (let col = 0; col < 2 * n - 1; col++) {
             if (col < n - row - 1 || col > n + row - 1) {
-                str += '*';
+                str += ' ';
             } else {
                 str += '#';
             }
@@ -50,7 +55,7 @@ function pyramid3(n, row = 0, str = '') {
     }
 
     if (str.length < n - row - 1 || str.length > n + row - 1) {
-        str += '*';
+        str += ' ';
     } else {
         str += '#';
     }
