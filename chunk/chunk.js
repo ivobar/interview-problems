@@ -1,3 +1,0 @@
-function chunk(arr, n) {
-
-}

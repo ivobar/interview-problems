@@ -1,10 +1,9 @@
-// Check of the given two strings are anagram (if they have the exact same characters);
-
-
-// Notes:
-// It may be a good idea to create a helpert function that turns the string in a character map
-// (it will be good to do in an interview setting)
-// Also - it is not bad to convert the string in the loop itself (remove non \w and lower the case)
+/*
+* Description:
+* Check to see if two provided strings are anagrams of each other.
+* Two strings are considered an anagram when they have the exact same
+* characters
+*/
 
 //Solution 1
 function isAnagram(str1, str2) {

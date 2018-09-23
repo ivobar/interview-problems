@@ -1,4 +1,6 @@
 //check if the given string has repeated characters
+
+//For clarifications see max-char problem.
 function repeatedChars(str) {
     let charMap = {};
 
