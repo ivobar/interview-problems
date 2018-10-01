@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Junk</title>
+    <script src="get-junk.js"></script>
+    <style>
+        section {
+            display: flex
+        }
+        div {
+            width: 15%;
+            height: 150px;
+            background-color: grey
+        }
+        div[name="trash"] {
+            margin: auto;
+            background-color: aqua;
+            display: flex
+        }
+    </style>
+</head>
+<body>
+<section>
+    <div junk="1">Junk 1</div>
+    <div junk="0">Junk 0</div>
+    <div junk="1">Junk 1</div>
+    <div junk="15">Junk 15</div>
+    <div junk="5">Junk 5</div>
+    <div junk="0">Junk 0</div>
+    <div junk="1">Junk 1</div>
+</section>
+<section>
+    <div name="trash"></div>
+</section>
+<button onclick="getJunk()">Click</button>
+</body>
+</html>

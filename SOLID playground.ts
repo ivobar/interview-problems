@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class CreditCard {
     private Code: String;
     private Expiration: Date;
@@ -39,3 +40,5 @@ class SilverCreditCard extends CreditCard {
         return this.MonthlyCost * 0.03;
     }
 }
+=======
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013

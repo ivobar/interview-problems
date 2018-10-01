@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0166bba5-0dcc-4a24-803c-bb07aef08199" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/SOLID playground.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID playground.ts" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/algorhitmic problems/fibonacci/fibonacci-recursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorhitmic problems/fibonacci/fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorhitmic problems/pyramid/pyramid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structures/linked-list-midpoint/midpoint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structures/linked-lists/linked-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structures/the-queue/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structures/the-queue/weave.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structures/the-stack/queue-from-stacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structures/the-stack/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/get-junk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/junk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fuckUps/Tiger Technology/reference-playground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fuckUps/Tiger Technology/references-question.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wierd-stuff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID playground.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID playground.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anagrams/anagram-checker.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/anagrams/anagram-checker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitalize/capitalize.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/capitalize/capitalize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chunks/chunks.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/chunks/chunks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz/fizzbuzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/fizzbuzz/fizzbuzz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-setTimeout/loop-setTimeout.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/loop-setTimeout/loop-setTimeout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix-spiral/matrix-spiral.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/matrix-spiral/matrix-spiral.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/max-char/max-char.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/max-char/max-char.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/max-char/repeated-characters.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/max-char/repeated-characters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pallindrome/pallindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/pallindrome/pallindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/playground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid/pyramid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse-int/reverse-int.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/reverse-int/reverse-int.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse-string/reverse-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/reverse-string/reverse-string.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steps/steps.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/steps/steps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vowels/vowels.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorhitmic problems/vowels/vowels.js" afterDir="false" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,50 +94,76 @@
     <session id="1725167490">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="7094" />
-          <entry key="ts" value="2" />
+          <entry key="html" value="188" />
+          <entry key="js" value="25141" />
+          <entry key="ts" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="7094" />
-          <entry key="TypeScript" value="2" />
+          <entry key="HTML" value="188" />
+          <entry key="JavaScript" value="25141" />
+          <entry key="TypeScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="12" />
-          <entry key="ts" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="39" />
+          <entry key="ts" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="12" />
-          <entry key="TypeScript" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="39" />
+          <entry key="TypeScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SOLID playground.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="296">
               <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data structures/linked-lists/linked-list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3591">
+              <caret line="171" column="37" selection-start-line="171" selection-start-column="37" selection-end-line="171" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data structures/linked-list-midpoint/midpoint.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
             </state>
           </provider>
         </entry>
@@ -112,8 +173,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -124,11 +186,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/max-char/acronym-checker.js" />
-        <option value="$PROJECT_DIR$/capitalize/capitalize.js" />
-        <option value="$PROJECT_DIR$/steps/steps.js" />
-        <option value="$PROJECT_DIR$/pyramid/pyramid.js" />
         <option value="$PROJECT_DIR$/vowels/жовелс.js" />
-        <option value="$PROJECT_DIR$/vowels/vowels.js" />
         <option value="$PROJECT_DIR$/matrix-spiral/matrix-spiral.js" />
         <option value="$PROJECT_DIR$/reverse-string/reverse-string.js" />
         <option value="$PROJECT_DIR$/pallindrome/pallindrome.js" />
@@ -137,10 +195,28 @@
         <option value="$PROJECT_DIR$/max-char/repeated-characters.js" />
         <option value="$PROJECT_DIR$/fizzbuzz/fizzbuzz.js" />
         <option value="$PROJECT_DIR$/chunks/chunks.js" />
-        <option value="$PROJECT_DIR$/anagrams/anagram-checker.js" />
-        <option value="$PROJECT_DIR$/playground.js" />
         <option value="$PROJECT_DIR$/loop-setTimeout/loop-setTimeout.js" />
         <option value="$PROJECT_DIR$/SOLID playground.ts" />
+        <option value="$PROJECT_DIR$/anagrams/anagram-checker.js" />
+        <option value="$PROJECT_DIR$/capitalize/capitalize.js" />
+        <option value="$PROJECT_DIR$/steps/steps.js" />
+        <option value="$PROJECT_DIR$/pyramid/pyramid.js" />
+        <option value="$PROJECT_DIR$/vowels/vowels.js" />
+        <option value="$PROJECT_DIR$/playground.js" />
+        <option value="$PROJECT_DIR$/fibonacci/fibonacci.js" />
+        <option value="$PROJECT_DIR$/fibonacci/fibonacci-recursive.js" />
+        <option value="$PROJECT_DIR$/data structures/the-queue/queue.js" />
+        <option value="$PROJECT_DIR$/data structures/the-queue/weave.js" />
+        <option value="$PROJECT_DIR$/the-stack/stack.js" />
+        <option value="$PROJECT_DIR$/the-stack/queue-from-stacks.js" />
+        <option value="$PROJECT_DIR$/wierd-stuff.js" />
+        <option value="$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/get-junk.js" />
+        <option value="$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/junk.html" />
+        <option value="$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/reference-playground.js" />
+        <option value="$PROJECT_DIR$/fuckUps/Tiger Technology/reference-playground.js" />
+        <option value="$PROJECT_DIR$/fuckUps/Tiger Technology/references-question.js" />
+        <option value="$PROJECT_DIR$/data structures/linked-lists/linked-list.js" />
+        <option value="$PROJECT_DIR$/data structures/linked-list-midpoint/midpoint.js" />
       </list>
     </option>
   </component>
@@ -204,6 +280,34 @@
               <item name="interview-problems" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview-problems" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="interview-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="algorhitmic problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="data structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="data structures" type="462c0819:PsiDirectoryNode" />
+              <item name="linked-list-midpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="data structures" type="462c0819:PsiDirectoryNode" />
+              <item name="linked-lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-problems" type="462c0819:PsiDirectoryNode" />
+              <item name="data structures" type="462c0819:PsiDirectoryNode" />
+              <item name="the-stack" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,11 +316,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.10.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/AlgoCasts-36488b319bf5bd30d6acd312b6216e23f0c0b31c" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -224,6 +329,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\interview-problems\fuckUps\Tiger Technology" />
+      <recent name="C:\projects\interview-problems\data structures" />
+      <recent name="C:\projects\interview-problems\algorhitmic problems" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,36 +349,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.loop-setTimeout.js">
-    <configuration name="fizzbuzz.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fizzbuzz.js" working-dir="$PROJECT_DIR$/fizzbuzz">
+  <component name="RunManager" selected="Node.js.midpoint.js">
+    <configuration name="linked-list.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="linked-list.js" working-dir="$PROJECT_DIR$/data structures/linked-lists">
       <method v="2" />
     </configuration>
-    <configuration name="loop-setTimeout.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="loop-setTimeout.js" working-dir="$PROJECT_DIR$/loop-setTimeout">
+    <configuration name="midpoint.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="midpoint.js" working-dir="$PROJECT_DIR$/data structures/linked-list-midpoint">
       <method v="2" />
     </configuration>
-    <configuration name="max-char.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="max-char.js" working-dir="$PROJECT_DIR$/max-char">
+    <configuration name="reference-playground.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reference-playground.js" working-dir="$PROJECT_DIR$/fuckUps/Tiger Technology">
       <method v="2" />
     </configuration>
-    <configuration name="playground.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="playground.js" working-dir="$PROJECT_DIR$">
+    <configuration name="references-question.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="references-question.js" working-dir="$PROJECT_DIR$/fuckUps/Tiger Technology">
       <method v="2" />
     </configuration>
-    <configuration name="reverse-int.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reverse-int.js" working-dir="$PROJECT_DIR$/reverse-int">
+    <configuration name="wierd-stuff.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="wierd-stuff.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.reverse-int.js" />
-      <item itemvalue="Node.js.max-char.js" />
-      <item itemvalue="Node.js.fizzbuzz.js" />
-      <item itemvalue="Node.js.playground.js" />
-      <item itemvalue="Node.js.loop-setTimeout.js" />
+      <item itemvalue="Node.js.linked-list.js" />
+      <item itemvalue="Node.js.wierd-stuff.js" />
+      <item itemvalue="Node.js.references-question.js" />
+      <item itemvalue="Node.js.reference-playground.js" />
+      <item itemvalue="Node.js.midpoint.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.loop-setTimeout.js" />
-        <item itemvalue="Node.js.playground.js" />
-        <item itemvalue="Node.js.fizzbuzz.js" />
-        <item itemvalue="Node.js.max-char.js" />
-        <item itemvalue="Node.js.reverse-int.js" />
+        <item itemvalue="Node.js.midpoint.js" />
+        <item itemvalue="Node.js.linked-list.js" />
+        <item itemvalue="Node.js.references-question.js" />
+        <item itemvalue="Node.js.reference-playground.js" />
+        <item itemvalue="Node.js.wierd-stuff.js" />
       </list>
     </recent_temporary>
   </component>
@@ -299,11 +411,39 @@
       <workItem from="1537601632886" duration="14000" />
       <workItem from="1537601667777" duration="17008000" />
       <workItem from="1537684046705" duration="6049000" />
+      <workItem from="1537768793212" duration="21000" />
+      <workItem from="1537795122378" duration="4989000" />
+      <workItem from="1537855123944" duration="5586000" />
+      <workItem from="1537885393126" duration="619000" />
+      <workItem from="1537942631782" duration="12633000" />
+      <workItem from="1537985805708" duration="5522000" />
+      <workItem from="1538029520267" duration="5389000" />
+      <workItem from="1538080365938" duration="760000" />
+      <workItem from="1538121205784" duration="5541000" />
+      <workItem from="1538135682792" duration="1987000" />
+      <workItem from="1538162376836" duration="1860000" />
+      <workItem from="1538204622096" duration="3341000" />
+      <workItem from="1538212650956" duration="1226000" />
+      <workItem from="1538289523999" duration="17670000" />
+      <workItem from="1538339560268" duration="2142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="96125000" />
+=======
+    <option name="totallyTimeSpent" value="161782000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -313,14 +453,14 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30778164" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.67131245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329849" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
@@ -344,73 +484,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitalize/capitalize.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vowels/vowels.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matrix-spiral/matrix-spiral.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!block;n#spiral2#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyramid/pyramid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/steps/steps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverse-string/reverse-string.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/reverse-string/reverse-string.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="91" selection-start-column="91" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pallindrome/pallindrome.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/pallindrome/pallindrome.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverse-int/reverse-int.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/reverse-int/reverse-int.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="420">
+          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#spiral2#0" />
+          </folding>
+=======
         <state relative-caret-position="147">
           <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/max-char/max-char.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/max-char/max-char.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/max-char/repeated-characters.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/max-char/repeated-characters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
@@ -418,48 +528,204 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chunk/chunk.js" />
-    <entry file="file://$PROJECT_DIR$/fizzbuzz/fizzbuzz.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/fizzbuzz/fizzbuzz.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/anagrams/anagram-checker.js">
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/chunks/chunks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chunks/chunks.js">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="735">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+=======
         <state relative-caret-position="819">
           <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SOLID playground.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/loop-setTimeout/loop-setTimeout.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="147">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+=======
+        <state relative-caret-position="798">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/anagrams/anagram-checker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/capitalize/capitalize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/steps/steps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="83" column="38" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/pyramid/pyramid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/vowels/vowels.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="819">
+          <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+=======
+        <state relative-caret-position="634">
+          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/fibonacci/fibonacci-recursive.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="655">
+          <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+=======
+        <state relative-caret-position="53">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/fibonacci/fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="410">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+=======
+        <state relative-caret-position="-31">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorhitmic problems/matrix-spiral/matrix-spiral.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structures/the-queue/weave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structures/the-queue/queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="296">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+=======
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wierd-stuff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="10631" column="4" selection-start-line="10631" selection-start-column="4" selection-end-line="10631" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/junk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        <state relative-caret-position="126">
+          <caret line="36" column="82" selection-start-line="36" selection-start-column="82" selection-end-line="36" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop-setTimeout/loop-setTimeout.js">
+    <entry file="file://$PROJECT_DIR$/fuckUps/Tiger Technology/references-question.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="84">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SOLID playground.ts">
+    <entry file="file://$PROJECT_DIR$/fuckUps/Tiger Technology/SelectorsQuestion/get-junk.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="42">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuckUps/Tiger Technology/reference-playground.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structures/the-stack/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structures/the-stack/queue-from-stacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structures/linked-lists/linked-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="171" column="37" selection-start-line="171" selection-start-column="37" selection-end-line="171" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structures/linked-list-midpoint/midpoint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+>>>>>>> 1ddfdddd19a9aa3ccc909995853a0cb334477013
         </state>
       </provider>
     </entry>
