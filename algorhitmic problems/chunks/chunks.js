@@ -20,9 +20,9 @@
 function chunk2(arr, n) {
     let result = [[]];
     for (let el of arr) {
-        if(result[result.length -1].length < n){
+        if (result[result.length - 1].length < n) {
             result[result.length - 1].push(el)
-        }else {
+        } else {
             result.push([el])
         }
     }
@@ -55,7 +55,6 @@ function chunk(arr, n) {
 
     return result;
 }
-
 
 
 console.log('-----Solution 1-----');
